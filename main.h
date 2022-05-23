@@ -23,6 +23,6 @@ typedef struct identifyStruct
 {
 char *identifier;
 int (*printer)(va_list);
-} identifyStruct;
+} identifyStruct
 
 #endif
