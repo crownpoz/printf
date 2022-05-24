@@ -1,3 +1,1 @@
-# printf
-#Author
-#crownpoz
+# printf 
